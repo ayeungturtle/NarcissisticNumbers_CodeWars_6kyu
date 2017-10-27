@@ -1,4 +1,4 @@
-#Narcissistic Numbers (CodeWars 6kyu)
+# Narcissistic Numbers (CodeWars 6kyu)
 
 A Narcissistic Number is a number which is the sum of its own digits, each raised to the power of the number of digits.
 
